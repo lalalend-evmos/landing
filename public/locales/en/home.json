@@ -1,0 +1,75 @@
+{
+  "siteDescription": "Lalalend enables a lending protocol on Evmos",
+  "siteTitle": "Lalalend Finance : Decentralized Lending Protocol",
+  "benefits": {
+    "0": {
+      "name": "DEEP LIQUIDITY",
+      "subHeader": "Suppliers",
+      "paragraph": "Receive MIA on each loan/position opened. Use your assets to borrow assets."
+    },
+    "1": {
+      "name": "More Liquidity",
+      "subHeader": "Borrowers",
+      "paragraph": "Asset vaults help source liquidity for on-demand borrowing positions"
+    },
+    "2": {
+      "name": "Worry Less",
+      "subHeader": "Swaps Aggregation",
+      "paragraph": "Minimize Exposure to the market thanks to our smart order routing system and execute swaps at the best price on Evmos chain."
+    }
+  },
+  "body": {
+    "subHeader": "Built Different",
+    "header": "Powerful Lending-Borrowing-Aggregation Market",
+    "paragraph": "",
+    "grid": {
+      "0": {
+        "heading": "Borrowing/Lending Efficiency",
+        "paragraph": "Lend or borrow accross many assets without selling your assets."
+      },
+      "1": {
+        "heading": "Deeper Liquidity",
+        "paragraph": "Each single market has its own liquidity and reserves."
+      },
+      "2": {
+        "heading": "Swaps Efficiency",
+        "paragraph": "Minimize losses with our aggregate system and enjoy best swaps orders."
+      },
+      "3": {
+        "heading": "Constant Yield",
+        "paragraph": "Earn MIA as rewards constantly when providing liquidity to opened Vaults."
+      },
+      "4": {
+        "heading": "Fully Collateralized",
+        "paragraph": "All loans are over-collateralized, removing risk of bad debt."
+      },
+      "5": {
+        "heading": "Synths with SEB",
+        "paragraph": "Mint SEB stablecoin using your assets as collateral."
+      }
+    },
+    "protocolUsage": {
+      "header": "Protocol Usage",
+      "uniswap": "Lalalend prepares assets post expiry from Uniswap to roll-over for next expiry.",
+      "uma": "Synthetic assets like indices, stocks are minted with rDPX as collateral on UMA.",
+      "chainlink": "Chainlink oracles provide Dopex with pricing and volatility data."
+    },
+    "audits": {
+      "header": "And Audits"
+    }
+  },
+  "investorsAndPartners": "Investors & Partners",
+  "tokenModel": {
+    "subHeader": "Synergy",
+    "header": "Dual Token Model",
+    "paragraph": "Lalalend utilizes two separate tokens to coordinate new ecosystem dynamics.",
+    "dpx": {
+      "description": "MIA is the limited supply governance token.",
+      "paragraph": "It accrues fees and revenue from vaults and fees."
+    },
+    "rdpx": {
+      "description": "SEB is the synthetic stablecoin token.",
+      "paragraph": "It can be used to stake in vaults and earn even more MIA rewards."
+    }
+  }
+}

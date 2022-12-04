@@ -1,0 +1,44 @@
+{
+  "learnMore": "Learn More",
+  "documentation": "Documentation",
+  "github": "GitHub",
+  "tokenomics": "Tokenomics",
+  "launchApp": "Launch App",
+  "copyright": "© 2021 Dopex",
+  "community": "Community",
+  "discord": "Discord",
+  "twitter": "Twitter",
+  "blog": "Blog",
+  "developers": "Developers",
+  "tokenSale": "Token Sale",
+  "home": "Home",
+  "sale": "Sale",
+  "learn": "Learn",
+  "Public sale": "Public sale",
+  "tokenSaleLiveBanner": {
+    "title": "Dopex Token Sale is Live!",
+    "paragraph": "Visit the page now to participate 🚀"
+  },
+  "farmsLiveBanner": {
+    "title": "Farms are now live on Arbitrum, stake your DPX & rDPX!",
+    "paragraph": "Visit the page now to participate 🚀"
+  },
+  "testnetLiveBanner": {
+    "title": "Public Testnet is now live on Arbitrum Rinkeby!",
+    "paragraph": "Visit the page now to participate 🚀"
+  },
+  "ssovTestnetLiveBanner": {
+    "title": "SSOV Testnet is now live on Kovan!",
+    "paragraph": "Visit the page now to participate 🚀"
+  },
+  "ssovLiveBanner": {
+    "title": "Single Staking Option Vaults are now live on the app!",
+    "paragraph": "Visit the page now to participate 🚀"
+  },
+  "purchaseBanner": {
+    "title": "You can purchase $DPX and $rDPX via SushiSwap on Arbitrum(L2).",
+    "paragraph": "Click on learn more for step-by-step instructions."
+  },
+  "Learn More": "Learn More",
+  "go": "Go"
+}

@@ -1,0 +1,103 @@
+{
+  "siteDescription": "DPX Public Sale will be live on 21st June",
+  "siteTitle": "DPX Public Sale | Dopex",
+  "saleIsLive": "Sale is Live!",
+  "introduction": {
+    "title": "Participate in Defi's most advanced options protocol",
+    "paragraph": "Dopex's mainnet launch this summer on Ethereum and L2 marks a new moment for unrestricted and gas efficient options trading."
+  },
+  "body": {
+    "header": "Sale Details",
+    "description": "Familiarize yourself with the sale with these simple pointers.",
+    "grid": {
+      "0": {
+        "heading": "Date & Supply",
+        "paragraph": "Total of 75,000 DPX (15% of total supply) will be available in exchange for ETH via the deposit contract.",
+        "linkTitle": "Blog Post"
+      },
+      "1": {
+        "heading": "Deposit Contract",
+        "paragraph": "The contract accepts deposits until DPX reaches its max price or the sale concludes by June 24th, 2021.",
+        "linkTitle": "Etherscan"
+      },
+      "2": {
+        "heading": "Fair Distribution",
+        "paragraph": "Claimable DPX will be based on their share of total deposits at the end. In other words, there is no front-running and being first or last doesn’t matter."
+      },
+      "3": {
+        "heading": "Sale Distribution",
+        "totalSupply": "Total Supply",
+        "saleSupply": "Sale Supply",
+        "maxPrice": "Max Price",
+        "ethInUsd": "ETH in USD",
+        "helperText": "The sale follows a linear graph that determines the final token price for every participant."
+      },
+      "4": {
+        "heading": "DPX Emission and Allocation",
+        "helperText": "The token sale allocation above is a sum of the public sale and early investors allocation."
+      }
+    }
+  },
+  "features": {
+    "header": "Features",
+    "subHeader": "Get to know DPX",
+    "paragraph": "DPX is the native protocol token. Issued on Ethereum as a standard ERC-20 token, it will be utilized as the de-facto governance token on Dopex.",
+    "grid": {
+      "0": {
+        "heading": "Governance Token",
+        "paragraph": "DPX is used to vote on protocol and app level proposals."
+      },
+      "1": {
+        "heading": "Dual Token Model",
+        "paragraph": "Option Writers get rDPX that can be used for synthetic assets."
+      },
+      "2": {
+        "heading": "Protocol Income",
+        "paragraph": "Holders receive revenue from Dopex’s protocol over time.."
+      },
+      "3": {
+        "heading": "Platform Rewards",
+        "paragraph": "Option Pool liquidity providers receive DPX emissions."
+      }
+    }
+  },
+  "roadMap": {
+    "subHeader": "Our Direction",
+    "header": "Roadmap",
+    "paragraph": "From decentralized leverage to synthetic assets. Find out what has gotten the team excited about the future of Dopex.",
+    "list": {
+      "0": "LEVERAGED OPTIONS TRADING",
+      "1": "OTC PORTAL",
+      "2": "INSURANCE POOLS",
+      "3": "CURVE METAPOOLS",
+      "4": "VOLATILITY ARBITRATION STRATEGY VAULTS",
+      "5": "PRIVATE & CUSTOM POOLS",
+      "6": "NEW PRICING METHODS",
+      "7": "SYNTHETIC ASSETS",
+      "8": "FLASH EXERCISE OPTIONS"
+    }
+  },
+  "faq": {
+    "header": "Frequently Asked Questions",
+    "subHeader": "FAQ",
+    "paragraph": "We enjoy answering your questions in person when possible but please check our FAQ below before pinging our team on Discord",
+    "data": {
+      "0": {
+        "question": "What are both Tokens used for?",
+        "answer": "Dopex makes use of two tokens for the protocol to work in a synergistic manner \n • DPX - vanilla governance and protocol fee accrual token \n • rDPX - rebate token - also used for protocol usage \n Learn more about DPX and its Bull Thesis <a href='https://blog.dopex.io/dpx-bull-thesis-9c7fbcac1651' target='_blank' rel='noopener noreferrer' className='text-primary'> here. </a>"
+      },
+      "1": {
+        "question": "Will it be a classic token sale (first come, first served)?",
+        "answer": "Yes. Users can deposit ETH until a max cap or deadline is reached."
+      },
+      "2": {
+        "question": "Are any countries excluded from the public token sale?",
+        "answer": "All OFAC sanctioned countries are excluded (including US)."
+      },
+      "3": {
+        "question": "Where can I read more on Tokenomics (lock-up, emission schedule, etc.)?",
+        "answer": " You can read everything about our tokenomics in our documentation here - <a href='https://docs.dopex.io/tokenomics' target='_blank' rel='noopener noreferrer' className='text-primary'>https://docs.dopex.io/tokenomics</a>"
+      }
+    }
+  }
+}
